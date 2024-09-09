@@ -5,19 +5,9 @@
     "age": 23
   },
   {
-    "id": 11,
-    "name": "New Postman User",
-    "age": 99
-  },
-  {
     "id": 12,
     "name": "Cool Code",
     "age": 28
-  },
-  {
-    "id": 101,
-    "name": "Tom Hanks",
-    "age": 70
   },
   {
     "id": 201,
@@ -28,15 +18,5 @@
     "id": 361,
     "name": "Imre Füty",
     "age": 19
-  },
-  {
-    "id": 666,
-    "name": "Devil",
-    "age": 666
-  },
-  {
-    "id": 999,
-    "name": "New Postman User",
-    "age": 99
   }
 ]
